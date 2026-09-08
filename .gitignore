@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Archivos ocultos y metadatos de macOS
+.DS_Store
+._*
